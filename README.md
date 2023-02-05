@@ -1,2 +1,5 @@
-# Mac-OS---React-Native-
-React Native Install cofnig --- Reat Native -  Xcode
+# Mac-OS  React-Native
+>  Install config Xcode & React Native
+
+
+
